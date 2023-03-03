@@ -1,5 +1,5 @@
 # Hola, soy Katerine Muñoz 
-👩‍🎓 *Bioingeniera*
+👩‍🎓 *Bioingeniera*  
 _Universidad de Antioquia, Medellín. Colombia_
 
 
