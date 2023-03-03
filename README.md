@@ -1,12 +1,12 @@
 # Hola, soy Katerine Muñoz 
-👩‍🎓 *Bioingeniera*  
+👩‍🎓 **Bioingeniera**  
 _Universidad de Antioquia, Medellín. Colombia_
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 
-### Soy *Test automation engineer* desde hace 3 años y en este momento me encuentro trabajando para Rockwellautomation Colombia 
+### Soy **Test automation engineer** desde hace 3 años y en este momento me encuentro trabajando para Rockwellautomation Colombia 
 
 
 ## 🤓Skills 
